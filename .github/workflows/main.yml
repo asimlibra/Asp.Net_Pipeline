@@ -1,0 +1,2 @@
+- name: Release Monitor Slack
+  uses: kpfaulkner/releasemonitor@0.1.0
